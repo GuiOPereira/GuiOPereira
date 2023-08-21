@@ -29,4 +29,5 @@ are full-stack and front-end developer, but any opportunity will be welcome.😊
 ## My Projects  & Contributions |  Meus Projetos e Contribuições
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GuiOPereira&repo=sds-meta&bg_color=000&border_color=FF4500&show_icons=true&icon_color=FF4500&title_color=FFF&text_color=FFF)](https://github.com/GuiOPereira/sds-meta)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GuiOPereira&repo=Validador-CPF&bg_color=000&border_color=FF4500&show_icons=true&icon_color=FF4500&title_color=FFF&text_color=FFF)](https://github.com/GuiOPereira/Validador-CPF)
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=GuiOPereira&theme=highcontrast&background=000&border=FF4500&dates=FFF)](https://git.io/streak-stats)
